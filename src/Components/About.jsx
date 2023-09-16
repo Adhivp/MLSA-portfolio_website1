@@ -24,19 +24,17 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Hey there, I'm Adhithyan, and I'm a person who's really into AI, coding, and boxing. When it comes to technology, I'm like a sponge ,always eager to learn more. Coding is my way of bringing ideas to life, and boxing? Well, it fuels my motivation and keeps me physically fit . These three things define me and keep me motivated every day.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Web develeopment",
+  "Tensorflow",
+  "Python",
+  "AI/ML",
 ];
 
 /**
@@ -45,7 +43,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "AI, Coding, and Boxing Enthusiast: A Multifaceted Passionate Pursuer😅";
 
 const About = () => {
   return (
